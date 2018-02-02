@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
         mGSoundID=mSoundPool.load(getApplicationContext(), R.raw.note5_g,1);
 
 
-
     }
 
     public void playC(View view) {
